@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files, build results, and
+# build directories
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Auto-generated files
+*.generated.cs
+
+# Build directories
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+.scaffolding

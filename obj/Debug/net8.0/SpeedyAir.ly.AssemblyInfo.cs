@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpeedyAir.ly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98e593900e833fc0b5974815745071387769f5d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpeedyAir.ly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpeedyAir.ly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
